@@ -1,0 +1,6 @@
+¿Qué es la aplicación?
+La aplicación es una forma de encontrar inmuebles abandonados que se puedan recuperar y que se puedan remodelar para ser usados en viviendas o como oficinas según sea la posibilidad de modificarlos, es una forma de volver a darle vida a la ciudad o estado esto ayudaría a eliminaría la delincuencia que se meten y muchos de ellos viven ahí y hacen destrozos por dentro y fuera del inmueble y son capaces de dañarlos sin importar como se verán podemos también pensar en hacer más viviendas con la creación de créditos para viviendas. 
+¿Para quién va dirigido? 
+Para cualquier persona interesada en invertir en una vivienda o en una oficina, para empresas que se dedique hacer proyectos y a remodelar inmuebles. 
+¿Qué debe hacer?
+El usuario primero debe ubicar el inmueble saber en qué situación se encuentra, ver la posibilidad de que se pueda adquirir con todos los documentos legales, revisar el proyecto que se tiene para remodelar, buscar un crédito para poder remodelar se hace la entrega del inmueble y después se verifica la transformación y se toma la foto de un proyecto concluido como hacer los trámites en dado caso que se pueda modificar bus algún proyecto que se tenga para el inmueble. 
