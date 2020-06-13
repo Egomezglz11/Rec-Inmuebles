@@ -31,6 +31,7 @@ h1 {
 .Casas {
     width: 300px;
     background-color: #E6E7E8;
+    margin-bottom: 15px;
 }
 
 .Edificios {
@@ -72,13 +73,15 @@ h1 {
     background-image: url('/recursos1/imagen/Casas.png');
     background-size: 500px 300px;
     background-repeat: no-repeat;
-    background-position-x: #E6E7E8;
+    background-position-x: right;
+    border: 1px; 
     padding: 20px;
     margin: 10px;
+    margin-bottom: 15px;
 }
 
 .Edificios {
-    width: 100px;
+    width: 500px;
     background-image: url('/recursos1/imagen/edificios.png');
     background-size: 500px 300px;
     background-repeat: no-repeat;
@@ -88,7 +91,7 @@ h1 {
 }
 
 .Terrenos {
-    width: 100px;
+    width: 500px;
     background-image: url('/recursos1/imagen/Terrenos.png');
     background-size: 500px 300px;
     background-repeat: no-repeat;
@@ -96,6 +99,21 @@ h1 {
     padding: 20PX;
     margin: 10px;
 
+}
+
+.Actual {
+    width: 500px;
+    background-color: #bcb08a;
+    background-image: url('/recursos1/imagen/actual.png');
+    b
+}
+
+.Proyecto {
+    width: 500px;
+}
+
+.Entrega {
+    width: 500px;
 }
 
 .logo-Container {
