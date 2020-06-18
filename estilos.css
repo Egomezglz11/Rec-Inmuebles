@@ -20,10 +20,11 @@ h1 {
     letter-spacing: -.1px;
     font-family: "Arial";
     color: blue;
-    margin: 1px 15px 7px 3px;
-    margin-bottom: 15px;
-    padding: 20px;
-    margin: 10px;   
+    margin: 0;
+    /*margin: 1px 15px 7px 3px;
+    /*margin-bottom: 15px;
+    /*padding: 20px;
+    /*margin: 10px;*/ 
     
 }
 
@@ -46,7 +47,7 @@ h1 {
 }
 
 .Terrenos {
-    width: 300px;
+    width: 100px;
     background-color: #E6E7E8;
 }
 
@@ -70,36 +71,45 @@ h1 {
     margin: 100px;
     margin-bottom: 15px;
     padding: 10px;
+    display: inline-flex;
 
 }
 
 .Casas {
-    width: 500px;
+    width: 400px;
     background-size: 500px 300px;
     background-repeat: no-repeat;
-    background-position-x: right;
+    background-position: right;
     border: 1px; 
     padding: 20px;
     margin: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .Edificios {
-    width: 500px;
+    width: 400px;
     background-size: 500px 300px;
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
     padding: 20px;
     margin: 10px;
 }
 
 .Terrenos {
-    width: 500px;
-    background-size: 500px 300px;
+    width: 400px;
+    background-size: 200px 100px;
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
     padding: 20px;
     margin: 10px;
+}
+
+.article-container {
+    display: flex;
+}
+
+.aside-container {
+    display: flex;
 }
 
 .Actual {
@@ -136,6 +146,8 @@ h1 {
 
 .Barnav-details {
     width: 50;
+    display: flex;
+
 }
 
 .titulo-principal-container {
