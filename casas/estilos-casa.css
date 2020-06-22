@@ -37,16 +37,6 @@ h1 {
     margin-bottom: 15px;
 }
 
-.Edificios {
-    width: 300px;
-    background-color: #E6E7E8;
-}
-
-.Terrenos {
-    width: 100px;
-    background-color: #E6E7E8;
-}
-
 .header {
     background-color: #bcb08a;
     color: white;
@@ -55,18 +45,6 @@ h1 {
 .header a {
     color: #000;
     text-decoration: none;
-}
-
-.Actual-proyecto-entrega-details {
-    background: #bcb08a;
-    margin: 0px;
-    padding: 30px;
-    font-size: 30px;
-    display: inline-flex;
-    justify-content: space-between;
-    align-items: center;
-    border-radius: 10px;
-    object-fit: cover;
 }
 
 .h4 {
@@ -83,28 +61,6 @@ h1 {
     padding: 20px;
     margin: 10px;
     margin-bottom: 10px;
-    object-fit: cover;
-}
-
-.Edificios {
-    width: 400px;
-    background-size: 500px 300px;
-    background-repeat: no-repeat;
-    background-position: right;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 10px;
-    object-fit: cover;
-}
-
-.Terrenos {
-    width: 400px;
-    background-size: 200px 100px;
-    background-repeat: no-repeat;
-    background-position: right;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 10px;
     object-fit: cover;
 }
 
